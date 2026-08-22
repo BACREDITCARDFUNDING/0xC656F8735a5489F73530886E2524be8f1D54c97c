@@ -1,0 +1,156 @@
+{empty} +
+{empty} +
+
+[.text-center]
+== LUVERN CONSTITUTION
+
+{empty} +
+
+[.text-left]
+=== 1. Constitution
+[horizontal]
+1.1:: This document is the constitution of Luvern (the "*Constitution*" and the "*DAO*" respectively).
+1.2:: The DAO is a private contractual arrangement between the Members from time to time (as defined in Clause 3.2 below) who have signed a hash of this Constitution. 
+1.3:: The current version of this Constitution is the most recent time-stamped version of this document available on the QGOV blockchain.
+1.4:: Capitalised terms used, but not otherwise defined within the main body of this Constitution shall have the meanings given to them in Schedule 1 (Constitutional Parameters).  
+
+[.text-left]
+=== 2. Objective of the DAO
+[horizontal]
+2.1:: The purpose of the DAO is The purpose of the DAO is :
+To receive the inheritance from my dad in accordance with:
+The Living Trust of LaVern J. Schneider. (the "*DAO Objective*").
+
+[.text-left]
+=== 3. Membership of the DAO
+[horizontal]
+3.1:: The native tokens of the DAO shall be DozerDog (DDG) (each, a "*Token*").
+[horizontal]
+3.1.1::: There shall be 1000000000 Tokens generated. Each Token shall be fully fungible with each other Token. Each Token shall be subdivided into and shall be freely transferrable in fractions of 1/10^18 or any integral multiple thereof. Tokens and fractions of Tokens shall be transferrable. Unless the context requires otherwise, all references to Tokens in this DAO Constitution shall be construed to include fractions of Tokens.
+
+
+3.2:: A person shall become a member of the DAO (a "*Member*") when they:
+[horizontal]
+3.2.1::: hold one or more Tokens;
+3.2.2::: deposit one or more Tokens in the vault which is technically used during a voting process in accordance with Clause 6 below, to become eligible for voting; and
+3.2.3::: agree to be bound by this Constitution, as may be amended from time to time in accordance with Clause 6.1, by signing a hash of this Constitution on the QGOV blockchain.
+
+3.3:: A person who has become a Member of the DAO shall cease being a Member when they no longer hold any Tokens.
+3.4:: If a person deposits one or more Tokens in the vault in accordance with Clause 3.2.2 and has become a Member of the DAO, such person shall not be required to keep such Token(s) in the vault and shall not cease being a Member when they withdraw such Token(s) from the vote.
+3.5:: A Member of the DAO who has signed a hash of this Constitution on the QGOV blockchain shall be bound by each amendment of this Constitution which is effected in accordance with the terms of this Constitution from time to time, regardless of whether such Member consents to any such amendment.
+
+
+[.text-left]
+=== 4. Representative Members
+[horizontal]
+4.1:: The Members of the DAO may designate one or more Members as the "Representative Members" of the DAO and may remove one or more Representative Members of the DAO from time to time in accordance with Clause 6.3.
+4.2:: The Members of the DAO who are not Representative Members may not represent or otherwise act on behalf of the DAO before third parties.
+4.3:: Each Representative Member shall be entitled to represent or otherwise act on behalf of the DAO before third parties for any matter subject to the remaining provisions of this Clause 3.4. All Members shall be bound by such representation or action of a Representative Member which complies with this Constitution.
+4.4:: When representing or otherwise acting on behalf of the DAO, each Representative Member shall always act in a way which is consistent with the DAO Objective.
+4.5:: When representing or otherwise acting on behalf of the DAO before third parties, a Representative Member shall be entitled to do so directly or indirectly, including, without limitation, through any limited liability companies controlled by such Representative Member.
+
+[.text-left]
+=== 5. Expert Panels
+[horizontal]
+5.1:: The Members of the DAO may designate a sub-set of the Members as an "Expert Panel" and may remove one or more Members from an Expert Panel from time to time in accordance with Clause 6.3.
+5.2:: The Expert Panels may not represent or otherwise act on behalf of the DAO before third parties.
+5.3:: The DAO has the following Expert Panels:
+[horizontal]
+
+5.3.1::: Guardians; and
+5.3.2::: Vthayer.
+5.4:: The competencies of each Expert Panel are as follows:
+[horizontal]
+5.4.1::: Guardians:
+[horizontal]
+
+(a):::: monitor proposals brought forth in the DAO and cast a veto if necessary for the protection of the DAO.
+5.4.2::: Vthayer:
+[horizontal]
+
+(a):::: monitor proposals brought forth in the DAO and cast a veto if necessary for the protection of the DAO.
+
+[.text-left]
+=== 6. Decision-Making
+[horizontal]
+6.1:: Any Member may propose a change to the wording of this Constitution, including any of the parameters set out in Schedule 1 (_Constitutional Parameters_). In order to become effective, such change requires that:
+[horizontal]
+6.1.1::: one or more Members holding at least 5% of the Tokens (_Constitution Vote.requiredQuorum_) vote on such proposal and 50% of the votes cast, weighed by reference to the aggregate number of Tokens deposited in the vault at such time, (_Constitution Vote.requiredMajority_) are in favour of such proposal within 5 minutes (_Constitution Vote.votingPeriod_) after the relevant proposal is made; and that, further,
+6.1.2::: 50% of Veto Right Holders (_Constitution Vote.requiredVetoQuorum_) do not exercise their veto right in respect of such proposal within 5 minutes (_Constitution Vote.vetoPeriod_).
+After a proposal is accepted in accordance with both Clause 6.1.1 and Clause 6.1.2, the changed wording of the Constitution shall apply from the end of the period specified in Clause 6.1.2. The Members shall cooperate with each other and shall do all such things as are commercially necessary and within their control to give effect to such amendment.
+
+[horizontal]
+6.2:: Any Member may propose that a Representative Member carries out a specified action which falls within the competencies of the relevant Expert Panel. Such Representative Member shall use commercially reasonable efforts to carry out such action if 5% of Members vote on such proposal and 50% of Members participating in the vote consent to such proposal within 5 minutes after the relevant proposal is made. If the proposal is accepted, such acceptance shall constitute an instruction to the relevant Representative Member to use commercially reasonable efforts to carry out the relevant action.
+6.3:: Any Member may propose a change to the composition of an Expert Panel or the appointment or removal of a Representative Member. In order to become effective, such change requires that 5% of Members vote on such proposal and 50% of Members participating in the vote consent to such proposal within 5 minutes after the relevant proposal is made. A Member may not be added to an Expert Panel or, as the case may be may not be appointed as a Representative Member without such Member's explicit consent to be given by executing the proposal themselves. If a person is no longer a Member, they would automatically cease being a member of any Expert Panel and cease being a Representative Member.
+
+
+6.4:: Any Member of an Expert Panel may propose a change to any Expert Panel Parameter of such Expert Panel. In order to become effective, such change requires that:
+[horizontal]
+6.4.1::: 5% of Members of such Expert Panel consent to such proposal within 5 minutes after the relevant proposal is made; and that, further,
+6.4.2::: 50% of Veto Right Holders do not exercise their veto right in respect of such proposal within 5 minutes.
+
+
+
+[.text-left]
+=== 7. Dispute Resolution
+[horizontal]
+7.1:: This Constitution shall be governed by and shall be construed in accordance with Swiss law, except that the arbitration agreement contained in the remainder of this Clause 7 shall be governed by and shall be construed in accordance with Swiss law, including the arbitration agreement contained in the remainder of this Clause 7.
+
+7.2:: All Members irrevocably agree that all disputes arising out of or in connection with this Constitution and/or the holding of Tokens shall be resolved by way of arbitration before an arbitration tribunal (the "Arbitral Tribunal") under the Rules of Arbitration of the International Chamber of Commerce (the "ICC Rules") and without recourse to the ordinary courts of law. In particular:
+[horizontal]
+7.2.1::: Pursuant to Article 30(2)(b) of the current ICC Rules (2021), the Expedited Procedure Rules shall apply irrespective of the amount in dispute.
+7.2.2::: In accordance with Articles 38(4) and (5) of the current ICC Rules (2021):
+[horizontal]
+(a):::: the final award shall fix the costs of the arbitration and decide which of the parties shall bear them or in what proportion they shall be borne by the parties; and
+(b):::: in making decisions as to costs, the Arbitral Tribunal may take into account such circumstances as it considers relevant, including the extent to which each party has conducted the arbitration in an expeditious and cost-effective manner. For the avoidance of doubt, the Arbitral Tribunal may give an award on the merits of the dispute in favour of one of the parties and still decide that such party shall bear some or all of the costs of the proceedings.
+7.2.3::: The seat of the arbitration shall be Zurich, Switzerland. The Arbitral Tribunal may, after consulting with the parties, conduct hearings and meetings at any location it considers appropriate, unless otherwise agreed by the parties.
+7.2.4::: Unless the Arbitral Tribunal determines otherwise, all filings may be done electronically per e-mail and all hearings may be held virtually. 
+7.2.5::: The language of the arbitration shall be English.
+
+7.2.6::: Arbitral awards issued pursuant to this Constitution may be enforced in any court of competent jurisdiction. 
+7.2.7::: Notwithstanding Clause 7.2, Members may:
+[horizontal]
+(a):::: apply to any competent judicial authority for interim or conservatory measures; and
+(b):::: commence court proceedings supporting arbitral proceedings or relating to arbitral awards including, without limitation, setting aside-, exequatur- or enforcement proceedings.
+7.2.8::: The application by a Member to a judicial authority for such measures or the commencement by a Member of such court proceedings shall not be deemed to be an infringement or a waiver of the arbitration agreement and shall not affect the relevant powers reserved to the Arbitral Tribunal.
+7.3:: Disputes between Members are open to alternative dispute resolution mechanisms ("*ADRM*") in a pre-stage to the ICC arbitration proceedings pursuant to Clause 7.2 if the parties to such disputes so agree. The purpose of this rule is that Members may opt for a relatively cheap and quick preliminary dispute resolution mechanism.    
+7.4:: Members are generally free to agree on any ADRM they deem appropriate, including, without limitation, the ones listed below. There is no time limit for such agreement. If the parties agree on an ADRM, and if the dispute is not fully resolved within the time period the parties have specifically agreed for the ADRM, or (lacking such specific agreement), within six (6) months of the parties having reached agreement on the ADRM, then each party may initiate ICC Arbitration as per Clause 7.2. For the avoidance of doubt, the statute of limitation is suspended during any kind of ADRM and/or any kind of negotiations about the dispute between the parties.      
+7.5:: ADRM may include, without limitation, any of the following forms of dispute resolution:
+[horizontal]
+7.5.1::: The Members may opt for ICC expert determination, in which case they shall submit their dispute to administered expert proceedings in accordance with the Rules for the Administration of Expert Proceedings of the International Chamber of Commerce.
+
+[.text-center]
+=== SCHEDULE 1
+[.text-center]
+=== CONSTITUTIONAL PARAMETERS
+
+{empty} +
+[horizontal]
+[width="100%",cols="25%,25%,50%",options="header"]
+|===
+| Defined Term: | Parameter: | Value:
+| DAO Registry | | 0x0a522b1dE106D53F89DF40FC6040Eea7Bb4705C6
+| DAO Name | constitution.daoName | Luvern
+| Limitation on possible Expert Panels | constitution.maxPanelPerDAO | 10
+
+
+
+| "*Expert Panel Parameters*" means, in respect of: | |
+| Guardians | N/A | To be determined
+| Vthayer | N/A | To be determined
+|===
+
+{empty} +
+[horizontal]
+[width="100%",cols="15%,25%,8%,8%,8%,8%,8%,20%",options="header"]
+|===
+| Proposal Type: | Voting Type: | Required Quorum: | Required Majority: | Voting Period: | Veto Period: | Execution Period: | "*Veto Right Holders*" means, in respect of the proposal type:
+| General Update Vote | Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| Constitution Vote | Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| "*Configuration Parameters*"" means, in respect of: | | | | | | |
+| Guardians Membership Vote | Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| Guardians General Vote | Expert Panel Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| Guardians Configuration Parameter Vote | Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| Guardians General Parameter Vote | Expert Panel Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days | Vthayer
+| Vthayer Membership Vote | Members with at least 1 Tokens are eligible to propose and vote on proposals. | 5% | 50% | 5 minutes | 5 minutes | 14 days |
+|===
