@@ -1,0 +1,831 @@
+Portfolio,Coin Name,Coin Symbol,Exchange,Pair,Type,Amount,Price,Price USD,Fee Percent,Fee Amount,Fee Currency,Date,Notes
+Bitcoin,Bitcoin,BTC,,,Received,2.69493733,,77123.43414005359,,,,\"8/22/2026, 5:50:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.56786882,,78519.15229503965,,,,\"8/22/2026, 5:11:08 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.63959489,,78730.22175805224,,,,\"8/22/2026, 4:42:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,1.09001651,,78730.22175805224,,,,\"8/22/2026, 4:36:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,3.88528206,,78359.26179999762,,,,\"8/22/2026, 4:20:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.28097026,,78359.26179999762,,,,\"8/22/2026, 4:19:03 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.55043665,,77900.06331222711,,,,\"8/22/2026, 12:10:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00008,,77068.96266666384,,,,\"8/21/2026, 8:10:39 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00008,,77120.25515159272,,,,\"8/21/2026, 8:00:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.18984335,,76781.40950442708,,,,\"8/21/2026, 12:06:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,219.99999900000003,,71685.31284130263,,0.00032548,BTC,\"8/20/2026, 12:54:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00005561,,69286.29641395586,,,,\"8/20/2026, 2:55:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,68580.10072017953,,,,\"8/19/2026, 4:53:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,1.47599241,,68300.4775022036,,,,\"8/19/2026, 4:01:53 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,1.29230484,,65442.63163746286,,,,\"8/19/2026, 2:54:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,109.99999799999999,,65434.41037892283,,0.00032182,BTC,\"8/19/2026, 2:25:04 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,64299.614762522004,,,,\"8/17/2026, 11:10:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.58149625,,63023.34963628781,,,,\"8/15/2026, 2:40:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,3.30992257,,63060.32252112,,,,\"8/15/2026, 8:19:36 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,3.92134053,,63080.56127738,,,,\"8/15/2026, 7:38:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.18542736,,62973.05142088,,,,\"8/14/2026, 3:48:07 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.71098998,,62644.2013198,,,,\"8/14/2026, 1:58:41 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.41801724,,62691.91221844,,,,\"8/14/2026, 1:54:37 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.06679472,,62691.91221844,,,,\"8/14/2026, 1:52:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.33054085,,62642.39872971,,,,\"8/14/2026, 1:08:41 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,51,,62853.00969182,,,,\"8/14/2026, 12:03:21 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.63091409,,62886.46225386,,,,\"8/14/2026, 11:28:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.95352717,,62889.38904391,,,,\"8/14/2026, 11:15:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.54896785,,62813.05122746,,,,\"8/14/2026, 9:45:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.36679479,,62787.30387315,,,,\"8/14/2026, 9:29:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.47243338,,62787.30387315,,,,\"8/14/2026, 9:28:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.49566816,,62868.38224164,,,,\"8/14/2026, 9:10:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,30.79988624,,62931.53735087,,,,\"8/14/2026, 8:58:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.54517496,,62854.83887232,,,,\"8/14/2026, 8:41:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.00443838,,62917.81661191,,,,\"8/14/2026, 8:00:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,63,,63654.61981208,,,,\"8/13/2026, 10:21:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.63928527,,63676.85569473,,,,\"8/13/2026, 4:36:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.30801169,,63422.73737151,,,,\"8/13/2026, 2:39:20 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.09576939,,63465.37215584,,,,\"8/13/2026, 2:12:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,30.79987884,,63402.08902914,,,,\"8/12/2026, 10:47:08 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,63532.93409356,,,,\"8/12/2026, 9:50:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.29617884,,63484.7377373,,,,\"8/12/2026, 9:29:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.55527201,,63590.42661019,,,,\"8/12/2026, 9:02:15 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.54074352,,63370.83028578,,,,\"8/12/2026, 7:32:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.34218903,,63416.29555257,,,,\"8/12/2026, 6:45:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.69034536,,63471.86345183,,,,\"8/12/2026, 5:42:11 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.74520947,,63491.23661309,,,,\"8/12/2026, 3:52:13 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.29311927,,63450.43448937,,,,\"8/12/2026, 3:08:49 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.23884744,,63591.136892,,,,\"8/12/2026, 2:49:43 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.03921361,,64064.38780763,,,,\"8/12/2026, 10:18:01 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.16014625,,63742.2354084,,,,\"8/12/2026, 6:10:31 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.86746907,,63808.77755988,,,,\"8/12/2026, 3:48:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.68998035,,63719.32985143,,,,\"8/12/2026, 3:24:37 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.36210601,,63857.47949697,,,,\"8/12/2026, 2:06:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.57968703,,63746.997302,,,,\"8/12/2026, 1:26:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.07497508,,63736.21255608,,,,\"8/12/2026, 1:03:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.7198915,,63693.25535474,,,,\"8/12/2026, 12:39:40 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,27.39998624,,63606.76135781,,,,\"8/12/2026, 12:21:39 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.58645111,,63606.76135781,,,,\"8/12/2026, 12:21:39 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.28451319,,63545.81905719,,,,\"8/11/2026, 11:17:49 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.31520254,,63545.81905719,,,,\"8/11/2026, 11:17:49 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,4.98206516,,63633.23869453,,,,\"8/11/2026, 10:46:38 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.12942085,,63702.09438906,,,,\"8/11/2026, 10:06:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.59110163,,63666.51231373,,,,\"8/11/2026, 9:30:55 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.5743679,,63530.44233723,,,,\"8/11/2026, 7:56:56 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.64214837,,63347.38986286,,,,\"8/11/2026, 7:34:23 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.98332914,,63529.24595609,,,,\"8/11/2026, 5:43:43 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000547,,64979.77612784,,,,\"8/9/2026, 1:20:03 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,64844.20559175,,,,\"8/7/2026, 10:10:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,150.00000000000003,,64639.59783497,,0.00031083,BTC,\"8/5/2026, 11:03:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000015,,64684.58920962,,,,\"8/5/2026, 9:39:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.15160034,,63482.8790194,,,,\"8/3/2026, 11:43:54 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.58964546,,63783.20480614,,,,\"8/3/2026, 4:40:17 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.35169325,,63781.87965522,,,,\"8/3/2026, 2:31:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.27646034,,62672.66832929,,,,\"8/3/2026, 10:35:39 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,30.79988624,,62730.96200848,,,,\"8/3/2026, 9:51:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.03371442,,62537.54469897,,,,\"8/3/2026, 8:59:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.80247957,,62336.11758827,,,,\"8/3/2026, 8:29:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.55130298,,62495.18945726,,,,\"8/3/2026, 8:21:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.36992715,,62785.58660587,,,,\"8/3/2026, 6:30:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.62734085,,62856.16347356,,,,\"8/3/2026, 6:13:06 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,28.69996624,,62813.47932642,,,,\"8/3/2026, 5:29:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.01764737,,62813.47932642,,,,\"8/3/2026, 5:29:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.72008816,,62782.09306776,,,,\"8/3/2026, 4:56:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.61687679,,63133.18791168,,,,\"8/3/2026, 2:55:45 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.8121414,,63122.94447776,,,,\"8/2/2026, 3:31:10 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,22.89995624,,63150.06170664,,,,\"8/2/2026, 2:21:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.00451712,,63064.92496254,,,,\"8/2/2026, 2:05:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.33493351,,63206.35159063,,,,\"8/2/2026, 10:37:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,63049.35324017,,,,\"8/1/2026, 9:58:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.18285459,,63037.26921315,,,,\"8/1/2026, 5:44:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.43374591,,63046.92606113019,,,,\"8/1/2026, 3:25:50 AM\",0x170042fbcee25e574ffbc25bb42bb9bc5131e1ee
+Bitcoin,Bitcoin,BTC,,,Received,11.27360859,,62966.86576059066,,,,\"8/1/2026, 2:03:43 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.08914553,,62950.628494506534,,,,\"8/1/2026, 1:27:23 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.27994543,,62994.63040649753,,,,\"7/31/2026, 10:27:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.43368639,,62994.63040649753,,,,\"7/31/2026, 10:25:17 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.99994666,,62980.822134485556,,,,\"7/31/2026, 8:07:17 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,150,,65006.050961166235,,0.00031083,BTC,\"7/30/2026, 1:50:59 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,63979.665340670756,,0.00029619,BTC,\"7/29/2026, 4:18:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,49,,64497.67852288843,,,,\"7/26/2026, 4:23:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.21635654,,64484.90696109039,,,,\"7/26/2026, 1:32:58 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00007153,,64484.90696109039,,,,\"7/26/2026, 1:32:58 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.12595855,,64420.07856875395,,,,\"7/25/2026, 7:28:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,44,,64155.79055602667,,,,\"7/25/2026, 5:02:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.64544911,,64045.1325983,,,,\"7/25/2026, 2:54:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.80379546,,64173.72775359,,,,\"7/24/2026, 6:09:59 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.58591051,,64101.52953139,,,,\"7/24/2026, 4:32:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,24.19988624,,64262.46810349,,,,\"7/24/2026, 3:42:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.78996254,,64262.46810349,,,,\"7/24/2026, 3:42:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.66351854,,63827.76287076,,,,\"7/24/2026, 2:42:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.40448347,,63827.76287076,,,,\"7/24/2026, 2:42:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.00414584,,65045.13894228,,,,\"7/24/2026, 12:18:59 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,103.49375606,,64987.78084279,,,,\"7/24/2026, 11:13:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.56424576,,65105.69475228,,,,\"7/24/2026, 10:03:38 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.49995355,,65413.42071995,,,,\"7/24/2026, 8:15:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.21715999,,65373.64722654,,,,\"7/24/2026, 5:08:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.56429273,,64928.7922352,,,,\"7/23/2026, 2:52:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.22224634,,65078.24492163,,,,\"7/23/2026, 1:12:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.13062621,,65575.43241008,,,,\"7/23/2026, 8:16:54 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.02856929,,65798.8761956,,,,\"7/23/2026, 6:54:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.40763296,,65650.92169503,,,,\"7/23/2026, 5:18:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.95646169,,65812.37464819,,,,\"7/23/2026, 2:08:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.20234317,,65932.5987325,,,,\"7/23/2026, 1:26:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.50551997,,66048.82551672,,,,\"7/22/2026, 9:43:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.16737585,,66853.96711202,,,,\"7/21/2026, 2:12:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.01989525,,65527.67348338,,,,\"7/21/2026, 4:50:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,169.999998,,64409.76534017,,0.00031083,BTC,\"7/20/2026, 2:35:41 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.50419681,,64700.27541144,,,,\"7/20/2026, 12:15:48 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,150,,64768.99241493,,0.00031083,BTC,\"7/19/2026, 1:18:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,63995.8327741,,,,\"7/18/2026, 10:14:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,169.999998,,65268.33589689,,0.00039818,BTC,\"7/15/2026, 2:12:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00009105,,62756.24223388,,,,\"7/14/2026, 10:42:39 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,64146.85637042,,0.00029619,BTC,\"7/11/2026, 12:41:52 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.0001493,,64169.34227648,,,,\"7/11/2026, 4:45:23 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,109.999998,,62880.55494612,,0.00031083,BTC,\"7/9/2026, 2:42:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.52541296,,62991.45221699,,,,\"7/8/2026, 3:20:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,199.999998,,63051.41053355,,0.00031083,BTC,\"7/8/2026, 2:03:09 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.99990224,,62923.292254262706,,,,\"7/4/2026, 5:25:55 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.02311973,,62520.26115901035,,,,\"7/4/2026, 11:41:37 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,61403.607008904044,,,,\"7/3/2026, 5:01:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,199.999998,,60451.471675676206,,0.00031083,BTC,\"7/2/2026, 6:14:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.43681254,,58530.726859588736,,,,\"7/1/2026, 12:09:12 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.76554807,,58663.230887119826,,,,\"7/1/2026, 11:47:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,176.88298624,,58706.97545232137,,,,\"7/1/2026, 11:20:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.62561496,,58621.76892588345,,,,\"7/1/2026, 10:47:59 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.20791565,,59030.79638377813,,,,\"7/1/2026, 3:12:40 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.87865855,,59058.226439487255,,,,\"7/1/2026, 2:56:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.22762632,,59058.226439487255,,,,\"7/1/2026, 2:56:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.8999201,,58957.43596219586,,,,\"7/1/2026, 2:32:20 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.01459702,,58246.84006686253,,,,\"7/1/2026, 1:32:07 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.59998107,,58633.36683585148,,,,\"6/30/2026, 11:22:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.66915285,,58548.18144451458,,,,\"6/30/2026, 11:13:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.47484355,,59347.93153014104,,,,\"6/30/2026, 10:29:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,60133.74570772,,,,\"6/29/2026, 6:14:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,109.99999799999999,,59924.30217053,,0.00031083,BTC,\"6/28/2026, 3:44:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.30053417,,60341.14055436,,,,\"6/28/2026, 12:08:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00001,,60408.28987886,,,,\"6/27/2026, 10:54:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.93628744,,59968.41775091,,,,\"6/26/2026, 4:31:59 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.95955855,,59932.88029497,,,,\"6/26/2026, 4:05:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.90992024,,60013.81988537,,,,\"6/26/2026, 3:58:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.59988624,,60013.81988537,,,,\"6/26/2026, 3:58:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.76347927,,58892.45930124,,,,\"6/26/2026, 3:22:36 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.67541715,,58808.96760062,,,,\"6/26/2026, 2:43:45 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.4316403,,58808.96760062,,,,\"6/26/2026, 2:43:45 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.43285028,,59900.58379337,,,,\"6/25/2026, 11:54:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,24.19997124,,59288.02432504,,,,\"6/25/2026, 7:55:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.96252073,,59329.8747568,,,,\"6/25/2026, 7:31:37 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.1522939,,59440.2711499,,,,\"6/25/2026, 6:42:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.04072238,,59717.60679791,,,,\"6/25/2026, 6:26:16 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.14937565,,59655.43375634,,,,\"6/25/2026, 6:18:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.47373709,,59654.75377946,,,,\"6/25/2026, 6:07:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.40875439,,59654.75377946,,,,\"6/25/2026, 6:07:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.34690745,,59643.46910984,,,,\"6/25/2026, 5:41:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,61687.73809532,,,,\"6/25/2026, 9:04:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.77676046,,60860.04918515,,,,\"6/24/2026, 10:35:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.75690316,,60837.31898078,,,,\"6/24/2026, 9:32:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.34667687,,60837.31898078,,,,\"6/24/2026, 9:32:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.7353118,,60764.20207461,,,,\"6/24/2026, 9:06:07 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,21.09991824,,61095.65960134,,,,\"6/24/2026, 8:52:43 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.05601816,,59796.7818864,,,,\"6/24/2026, 7:54:41 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.49134498,,59821.11865003,,,,\"6/24/2026, 7:34:08 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.14891434,,59663.0351639,,,,\"6/24/2026, 7:23:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.75909055,,59663.0351639,,,,\"6/24/2026, 7:23:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.80956735,,59663.0351639,,,,\"6/24/2026, 7:23:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.97996475,,59663.0351639,,,,\"6/24/2026, 7:23:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.75230318,,59705.33759235,,,,\"6/24/2026, 7:08:45 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,21.09991924,,59719.86343059,,,,\"6/24/2026, 6:33:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.99998624,,59733.47113009,,,,\"6/24/2026, 6:20:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.60007316,,59733.47113009,,,,\"6/24/2026, 6:20:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.85955855,,59410.28015101,,,,\"6/24/2026, 6:01:37 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.99997124,,59437.56769327,,,,\"6/24/2026, 5:54:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.96106361,,59474.77966967,,,,\"6/24/2026, 5:43:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.4399327,,59702.22414751,,,,\"6/24/2026, 5:34:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,21.09992024,,59702.22414751,,,,\"6/24/2026, 5:29:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.54403413,,59702.22414751,,,,\"6/24/2026, 5:29:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.48343709,,59702.22414751,,,,\"6/24/2026, 5:29:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.07792985,,60077.67443614,,,,\"6/24/2026, 4:52:57 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.8483767,,60077.67443614,,,,\"6/24/2026, 4:52:57 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,139.999998,,61369.87308989,,0.00031083,BTC,\"6/24/2026, 2:07:49 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,210,,65015.16757572,,0.00031083,BTC,\"6/22/2026, 3:31:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.51088314,,64271.38166759,,,,\"6/22/2026, 6:05:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,64243.18999991,,,,\"6/22/2026, 3:38:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.26931181,,63525.63042167,,,,\"6/22/2026, 12:06:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.38043805,,63683.53498456,,,,\"6/20/2026, 12:02:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.56125144,,63528.15368511,,,,\"6/20/2026, 12:09:54 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,120,,63107.11349935,,0.00029619,BTC,\"6/19/2026, 4:07:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,62347.174692,,0.00029619,BTC,\"6/19/2026, 9:49:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,63977.29971789,,,,\"6/18/2026, 5:19:15 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,189.999999,,64586.39745031,,0.00029619,BTC,\"6/18/2026, 2:07:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,200,,64969.75646204,,,,\"6/17/2026, 9:06:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.13365977,,65865.0123823,,,,\"6/17/2026, 5:37:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.07171585,,66398.77779351,,,,\"6/16/2026, 1:39:09 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.88014829,,66398.77779351,,,,\"6/16/2026, 1:39:09 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.93995624,,66242.72128005,,,,\"6/16/2026, 1:04:37 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.0217358,,66162.20767999,,,,\"6/15/2026, 10:27:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.81771734,,66505.94762138,,,,\"6/15/2026, 9:01:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.52377689,,66586.90991748,,,,\"6/15/2026, 8:13:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.47065282,,66586.90991748,,,,\"6/15/2026, 8:09:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.81618652,,66797.98839505,,,,\"6/15/2026, 6:07:10 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.2413447,,65713.37678219,,,,\"6/15/2026, 10:21:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.60522953,,65542.79341527,,,,\"6/15/2026, 9:50:11 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,200,,65542.79341527,,,,\"6/15/2026, 9:50:11 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.74978228,,65761.68172999,,,,\"6/15/2026, 9:19:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.60803249,,65818.01129026,,,,\"6/15/2026, 6:57:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.08412618,,65804.84800295,,,,\"6/15/2026, 6:44:59 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.35819248,,65856.10779719,,,,\"6/15/2026, 6:00:47 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.8942332,,65716.82004554,,,,\"6/15/2026, 4:28:18 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.2572656,,65690.91383427,,,,\"6/15/2026, 2:19:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.95201681,,65690.91383427,,,,\"6/15/2026, 2:19:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.21228653,,65627.32855058,,,,\"6/15/2026, 1:53:31 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.58791433,,65657.77205454,,,,\"6/15/2026, 1:40:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.02624515,,65657.77205454,,,,\"6/15/2026, 1:40:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.92341922,,65657.77205454,,,,\"6/15/2026, 1:40:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,200,,64514.61277696,,,,\"6/14/2026, 11:11:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,70,,63766.54905733,,,,\"6/13/2026, 10:16:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,200,,63791.60362596,,,,\"6/13/2026, 8:10:01 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.10183188,,63714.40839402,,,,\"6/13/2026, 7:19:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,63510.00293842,,,,\"6/13/2026, 4:59:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.50890297,,63602.04136176,,,,\"6/13/2026, 3:16:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.93976046,,63689.14051551,,,,\"6/13/2026, 1:37:47 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.37139698,,63452.46528236,,,,\"6/12/2026, 11:30:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,58,,63695.01681794,,,,\"6/12/2026, 11:36:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.88996833,,63614.71442472,,,,\"6/12/2026, 10:34:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.20977689,,63755.58461287,,,,\"6/12/2026, 9:32:20 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.72499442,,63460.74858483,,,,\"6/12/2026, 3:54:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.08963277,,61384.28395939,,,,\"6/10/2026, 3:16:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.34089486,,61666.13464589,,,,\"6/10/2026, 12:50:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.16042273,,62153.36753338,,,,\"6/9/2026, 9:00:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.99991706,,61611.41366657,,,,\"6/9/2026, 5:50:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.89187753,,61611.41366657,,,,\"6/9/2026, 5:50:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.71512363,,61836.83490323,,,,\"6/9/2026, 5:16:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.3770622,,62139.62565308,,,,\"6/9/2026, 2:14:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,21.09997124,,62648.86810503,,,,\"6/9/2026, 1:09:57 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.97305416,,62648.86810503,,,,\"6/9/2026, 1:09:57 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.93742878,,62575.82698322,,,,\"6/9/2026, 12:42:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.76606046,,62920.81691295,,,,\"6/9/2026, 9:24:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.45327643,,62816.2404284,,,,\"6/9/2026, 2:05:02 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.9599561,,63008.54483939,,,,\"6/9/2026, 12:22:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,63131.19406586,,,,\"6/8/2026, 10:27:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,63184.67956779,,,,\"6/8/2026, 8:06:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.73428818,,62797.89380107,,,,\"6/8/2026, 1:34:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.80466046,,62797.89380107,,,,\"6/8/2026, 1:34:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,21.09997124,,63298.29985914,,,,\"6/8/2026, 1:09:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.74047204,,63646.46736998,,,,\"6/8/2026, 12:58:01 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.24993085,,63251.67241758,,,,\"6/7/2026, 11:34:55 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.76915239,,61805.74960682,,,,\"6/7/2026, 2:54:19 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,18.92457633,,62413.47123518,,,,\"6/7/2026, 12:14:04 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,20.49998624,,62461.9348607,,,,\"6/7/2026, 9:53:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,61279.00618828,,,,\"6/6/2026, 12:19:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,62849.9390148,,,,\"6/5/2026, 9:52:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00001,,61682.37393225,,,,\"6/5/2026, 7:22:55 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.27271585,,63756.3639001,,,,\"6/4/2026, 11:13:45 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.30971585,,63552.76529713,,,,\"6/4/2026, 8:46:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.31288816,,63539.15245552,,,,\"6/4/2026, 6:01:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.62216244,,64379.49375221,,,,\"6/4/2026, 4:47:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.2923776,,64613.93529486,,,,\"6/4/2026, 4:21:23 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.69595495,,64613.93529486,,,,\"6/4/2026, 4:21:23 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.95993781,,64365.1868312,,,,\"6/4/2026, 3:54:06 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.35385283,,64365.1868312,,,,\"6/4/2026, 3:52:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.0817175,,64027.46400702,,,,\"6/4/2026, 3:23:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.09668136,,64027.46400702,,,,\"6/4/2026, 3:23:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.17683414,,62690.84085084,,,,\"6/4/2026, 1:32:26 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,26.09990961,,62874.56421832,,,,\"6/4/2026, 1:15:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.28718378,,65752.74095857,,,,\"6/3/2026, 10:01:43 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,26.19995266,,65465.7177081,,,,\"6/3/2026, 9:44:13 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.7787872,,65763.13913908,,,,\"6/3/2026, 7:39:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.25360224,,66045.47919049,,,,\"6/3/2026, 6:53:09 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.55979211,,66033.0444625,,,,\"6/3/2026, 4:20:52 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.96996624,,67315.12177743,,,,\"6/3/2026, 11:34:14 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.75146802,,67093.16075786,,,,\"6/3/2026, 9:08:55 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.02945441,,66994.35589441,,,,\"6/3/2026, 8:35:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.09974309,,67113.58733122,,,,\"6/3/2026, 8:24:18 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.73733146,,67292.02095749,,,,\"6/3/2026, 7:47:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,23.19991521,,67214.90020977,,,,\"6/3/2026, 6:52:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.35485533,,66454.52373211,,,,\"6/3/2026, 4:45:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,25.39991158,,66341.3222674,,,,\"6/3/2026, 4:12:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.77172452,,66341.3222674,,,,\"6/3/2026, 4:12:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.51955283,,65990.21784706,,,,\"6/3/2026, 3:41:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.12104931,,66629.34189629,,,,\"6/3/2026, 2:55:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,27.69987524,,66635.09732295,,,,\"6/3/2026, 2:32:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000008,,66638.56090533,,,,\"6/3/2026, 1:50:02 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.59718429,,66638.56090533,,,,\"6/3/2026, 1:50:02 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.18368931,,66859.29321286,,,,\"6/3/2026, 1:10:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000008,,66859.29321286,,,,\"6/3/2026, 1:06:41 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.9974994,,66932.81818468,,,,\"6/3/2026, 1:00:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,28.4998736,,66770.04472152,,,,\"6/3/2026, 12:30:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,66770.82653141,,,,\"6/2/2026, 11:54:07 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,249.99999900000003,,69005.22941726,,0.00032548,BTC,\"6/2/2026, 1:27:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,159.999999,,69804.80634083,,0.00031083,BTC,\"6/2/2026, 8:48:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,71513.51987911,,,,\"6/1/2026, 3:04:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000006,,71513.51987911,,,,\"6/1/2026, 3:04:35 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,369.999999,,71549.97250103,,0.00039682,BTC,\"6/1/2026, 2:25:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,199.99999800000003,,73133.95610481,,0.00031083,BTC,\"6/1/2026, 6:59:09 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,169.999998,,73598.41567434,,0.00031083,BTC,\"6/1/2026, 1:15:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,229.99999800000003,,73238.10759635,,0.00032548,BTC,\"5/29/2026, 12:45:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,259.999998,,73356.82992585,,0.00031083,BTC,\"5/28/2026, 12:18:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,169.999998,,73001.27546732,,0.00029619,BTC,\"5/28/2026, 4:32:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00001,,75346.60780547,,,,\"5/27/2026, 3:30:47 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,139.999998,,75814.75161907,,0.00029619,BTC,\"5/27/2026, 12:51:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00001,,75578.08272084,,,,\"5/27/2026, 5:03:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.56027095,,75887.03149687,,,,\"5/27/2026, 12:18:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,199.999998,,76538.25614165,,0.00029619,BTC,\"5/26/2026, 4:32:47 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.62120383,,77318.61116625,,,,\"5/25/2026, 12:05:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99,,77021.04032364,,0.00029619,BTC,\"5/25/2026, 4:00:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.57781858,,74754.05959568,,,,\"5/23/2026, 12:07:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,75274.85809677,,,,\"5/23/2026, 12:41:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,77243.79072762,,0.00029619,BTC,\"5/22/2026, 1:40:36 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,77189.60307559,,,,\"5/21/2026, 5:03:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,76931.26354431,,,,\"5/19/2026, 6:05:41 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,210.00000000000003,,76393.71920939,,0.00032548,BTC,\"5/18/2026, 2:50:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,77288.17359314,,,,\"5/18/2026, 1:28:11 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,59,,77959.76325004,,,,\"5/16/2026, 10:59:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00001467,,79133.32874692,,,,\"5/15/2026, 8:14:39 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,79283.48252506,,0.00029619,BTC,\"5/15/2026, 5:03:13 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,81375.88878099,,,,\"5/14/2026, 11:30:21 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,99.999999,,81375.88878099,,0.00029619,BTC,\"5/14/2026, 11:25:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.84140316,,79638.62318534,,,,\"5/14/2026, 2:44:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.95996624,,79415.51809892,,,,\"5/13/2026, 11:12:53 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,79427.19982016,,,,\"5/13/2026, 10:56:47 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89987524,,79307.80218083,,,,\"5/13/2026, 10:19:19 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.29223085,,79494.39985258,,,,\"5/13/2026, 7:32:34 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,16.89997124,,79199.06598084,,,,\"5/13/2026, 4:49:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.59987924,,79058.98517075,,,,\"5/13/2026, 4:33:11 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.92987924,,78928.56446867,,,,\"5/13/2026, 4:22:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,180,,80451.36044719,,0.00031083,BTC,\"5/12/2026, 2:04:28 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,109.999998,,81008.84997712,,0.00029619,BTC,\"5/11/2026, 1:51:16 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,80929.90377106,,,,\"5/10/2026, 2:07:09 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,80822.89671767,,,,\"5/10/2026, 9:04:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,150,,80219.18425571,,,,\"5/9/2026, 7:36:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.12454111,,80442.18761217,,,,\"5/9/2026, 5:30:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.86746046,,80424.87761182,,,,\"5/9/2026, 2:17:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.96996624,,80203.20015243,,,,\"5/9/2026, 12:41:59 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.88185195,,80234.75055499,,,,\"5/8/2026, 11:23:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.88998624,,80343.13133883,,,,\"5/8/2026, 10:49:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.2084648,,80343.13133883,,,,\"5/8/2026, 10:49:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,80348.00200045,,,,\"5/8/2026, 10:27:21 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.08449033,,80205.20582284,,,,\"5/8/2026, 8:15:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.88890316,,80054.46354332,,,,\"5/8/2026, 7:24:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.31178816,,80016.91787438,,,,\"5/8/2026, 5:55:08 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.98734592,,79830.31165345,,,,\"5/8/2026, 5:05:01 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.92996624,,79983.12144553,,,,\"5/8/2026, 4:10:47 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.46593995,,80075.49666348,,,,\"5/8/2026, 3:47:45 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.75282911,,79649.12103852,,,,\"5/8/2026, 1:48:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,79744.70205088,,,,\"5/8/2026, 1:17:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.99996624,,79889.84020666,,,,\"5/8/2026, 1:13:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.04231241,,80231.95155225,,,,\"5/8/2026, 11:55:39 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.99998624,,79890.59724863,,,,\"5/8/2026, 9:55:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.89997124,,79970.96205176,,,,\"5/8/2026, 9:22:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.92996624,,79970.96205176,,,,\"5/8/2026, 9:19:45 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.78667405,,80983.08825227,,,,\"5/7/2026, 11:39:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,150,,80902.47924589,,,,\"5/7/2026, 11:28:06 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.19997124,,80969.99903184,,,,\"5/7/2026, 11:10:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.93986024,,80969.99903184,,,,\"5/7/2026, 11:10:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89987924,,81218.32946676,,,,\"5/7/2026, 9:04:41 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00005079,,81077.1364783,,,,\"5/7/2026, 6:02:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,81386.41161241,,,,\"5/6/2026, 11:32:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.0001103,,81640.10357923,,,,\"5/6/2026, 8:16:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,81636.73552513,,,,\"5/6/2026, 4:47:38 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,200,,81761.67193395,,,,\"5/6/2026, 9:28:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.57232945,,81649.41311432,,,,\"5/6/2026, 8:36:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91996624,,81385.99096905,,,,\"5/6/2026, 7:51:03 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.74971489,,81551.17801118,,,,\"5/6/2026, 7:31:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.73771923,,81516.85488954,,,,\"5/6/2026, 6:49:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.63462374,,81393.40632657,,,,\"5/6/2026, 6:34:11 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.31998624,,81296.14648784,,,,\"5/6/2026, 5:07:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.93281923,,81296.14648784,,,,\"5/6/2026, 5:07:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.33156833,,81658.55718065,,,,\"5/6/2026, 3:41:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.10238507,,81402.41840406,,,,\"5/6/2026, 3:15:07 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.48083936,,81328.32648899,,,,\"5/6/2026, 2:11:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.48170316,,81398.83555984,,,,\"5/6/2026, 1:52:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.99996624,,81316.69824166,,,,\"5/6/2026, 1:35:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.03745855,,81245.86166796,,,,\"5/6/2026, 1:25:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.35146711,,81148.94155884,,,,\"5/6/2026, 1:06:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.52957193,,80906.99670838,,,,\"5/6/2026, 12:01:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.6155661,,80838.61728359,,,,\"5/5/2026, 11:44:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.68196451,,80838.61728359,,,,\"5/5/2026, 11:37:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.09997124,,81116.06002648,,,,\"5/5/2026, 11:24:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.92996624,,81077.97080332,,,,\"5/5/2026, 11:06:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.35490696,,81571.31942231,,,,\"5/5/2026, 9:20:59 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.65136129,,81268.42990645,,,,\"5/5/2026, 6:00:17 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.78251483,,81395.26705815,,,,\"5/5/2026, 5:17:14 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.18998624,,81225.81003436,,,,\"5/5/2026, 5:12:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.27524855,,81256.22395739,,,,\"5/5/2026, 4:57:05 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.98998624,,81335.17446218,,,,\"5/5/2026, 2:57:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.22902735,,81335.17446218,,,,\"5/5/2026, 2:57:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.21102955,,81211.44140986,,,,\"5/5/2026, 2:39:44 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89997124,,81635.85978266,,,,\"5/5/2026, 1:49:48 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.66756652,,80956.00346668,,,,\"5/5/2026, 11:25:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.77327133,,80956.00346668,,,,\"5/5/2026, 11:25:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91996624,,80793.50297094,,,,\"5/5/2026, 10:42:26 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.98996624,,80687.81111877,,,,\"5/5/2026, 10:14:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91998624,,80792.5909384,,,,\"5/5/2026, 8:57:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.93996624,,80861.80370239,,,,\"5/5/2026, 8:23:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,78321.31743175,,,,\"5/1/2026, 5:24:17 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,120,,78299.27762036,,0.00031083,BTC,\"5/1/2026, 3:10:04 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,104,,76053.67607154,,,,\"4/30/2026, 12:04:10 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,104,,76053.67607154,,,,\"4/30/2026, 12:04:10 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.36269034,,76122.69182778,,,,\"4/30/2026, 8:44:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.1951881,,75608.98932515,,,,\"4/30/2026, 5:58:47 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.26811484,,75858.75701653,,,,\"4/30/2026, 3:32:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.95988024,,75726.41693995,,,,\"4/30/2026, 12:15:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,75842.8879865,,,,\"4/29/2026, 11:38:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.82297466,,75842.8879865,,,,\"4/29/2026, 11:38:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.9398761,,75872.90669468,,,,\"4/29/2026, 9:16:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.96319567,,77107.62402825,,,,\"4/29/2026, 1:11:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,16.19987924,,77028.91269674,,,,\"4/29/2026, 6:55:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.93987924,,77023.53715419,,,,\"4/29/2026, 3:43:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00000546,,76591.17633661,,,,\"4/29/2026, 2:09:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,20,,76233.97693011,,,,\"4/28/2026, 11:39:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.00230992,,76233.97693011,,,,\"4/28/2026, 11:35:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.83965477,,76928.72588825,,,,\"4/28/2026, 5:57:54 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.09793198,,76887.03813702,,,,\"4/28/2026, 5:36:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.94128564,,76699.65489544,,,,\"4/28/2026, 2:48:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.47890316,,77098.48173725,,,,\"4/28/2026, 1:54:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91987224,,77098.48173725,,,,\"4/28/2026, 1:49:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.82401816,,77203.90032127,,,,\"4/28/2026, 1:26:43 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.94260331,,77371.74584117,,,,\"4/28/2026, 12:02:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89988024,,77059.31190458,,,,\"4/27/2026, 10:49:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.03147885,,76792.63844834,,,,\"4/27/2026, 9:58:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.21173769,,76934.51555942,,,,\"4/27/2026, 9:43:23 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.28713785,,76679.42840765,,,,\"4/27/2026, 6:10:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89985824,,76828.87088884,,,,\"4/27/2026, 5:30:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.67572334,,76828.87088884,,,,\"4/27/2026, 5:30:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.31201416,,76795.01673699,,,,\"4/27/2026, 4:03:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.08792945,,77056.84715919,,,,\"4/27/2026, 3:36:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,20,,77769.78815049,,,,\"4/27/2026, 12:07:09 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.32197386,,77831.58495364,,,,\"4/27/2026, 10:24:55 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.99987024,,77828.13579303,,,,\"4/27/2026, 10:11:14 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.54772693,,77903.54091313,,,,\"4/27/2026, 9:55:25 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.0103999,,77775.41006536,,,,\"4/27/2026, 9:28:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.72396401,,77728.25024887,,,,\"4/27/2026, 8:54:10 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.11393533,,77624.92952026,,,,\"4/27/2026, 8:07:31 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.46102177,,77624.92952026,,,,\"4/27/2026, 8:07:31 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.20955149,,77624.92952026,,,,\"4/27/2026, 8:07:31 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.92985524,,77652.89734774,,,,\"4/27/2026, 7:37:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.80836959,,77652.89734774,,,,\"4/27/2026, 7:37:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.79930316,,77652.89734774,,,,\"4/27/2026, 7:37:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.10087931,,77652.89734774,,,,\"4/27/2026, 7:37:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.18998624,,77735.76335199,,,,\"4/27/2026, 6:57:23 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.66097338,,77750.47164511,,,,\"4/27/2026, 6:34:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.0000976,,77834.35773048,,,,\"4/27/2026, 6:15:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89996624,,77834.35773048,,,,\"4/27/2026, 6:15:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.6799095,,77834.35773048,,,,\"4/27/2026, 6:15:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.24288287,,77834.35773048,,,,\"4/27/2026, 6:15:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.26037286,,79002.37341167,,,,\"4/27/2026, 4:45:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.64743577,,79032.46131258,,,,\"4/27/2026, 4:15:18 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.66768982,,79099.0881578,,,,\"4/27/2026, 4:01:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.12384968,,79103.04528033,,,,\"4/27/2026, 1:39:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.04507181,,78601.94802909,,,,\"4/27/2026, 12:20:14 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.33323939,,77358.36421164,,,,\"4/25/2026, 6:37:51 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.70365094,,77850.7363035,,,,\"4/25/2026, 10:37:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.71513166,,77623.16675336,,,,\"4/25/2026, 9:05:58 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.97804461,,77514.30157832,,,,\"4/25/2026, 5:56:17 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.07072186,,77619.67671993,,,,\"4/25/2026, 5:01:26 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.08519599,,77621.86622708,,,,\"4/25/2026, 4:07:20 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.97997124,,77696.80846262,,,,\"4/25/2026, 3:46:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.96639046,,77605.23347838,,,,\"4/25/2026, 3:11:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.83905751,,77567.46169638,,,,\"4/25/2026, 2:05:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91988624,,77542.81133973,,,,\"4/25/2026, 1:57:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.06805293,,77410.33160117,,,,\"4/25/2026, 12:47:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89987424,,77419.93007643,,,,\"4/24/2026, 11:53:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.53914677,,77372.34464667,,,,\"4/24/2026, 11:21:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.77077746,,77293.84391882,,,,\"4/24/2026, 10:37:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.17650553,,77550.43330916,,,,\"4/24/2026, 10:29:33 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.65490353,,77605.9447443,,,,\"4/24/2026, 9:38:23 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89987813,,77629.60699379,,,,\"4/24/2026, 9:30:46 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.95785323,,77623.23666358,,,,\"4/24/2026, 9:20:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.67439155,,77623.23666358,,,,\"4/24/2026, 9:16:39 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89986624,,77625.84622743,,,,\"4/24/2026, 6:56:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.33973725,,77625.84622743,,,,\"4/24/2026, 6:56:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.19862546,,77625.84622743,,,,\"4/24/2026, 6:56:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.11803085,,77502.00210549,,,,\"4/24/2026, 6:26:50 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.02543998,,77625.23074779,,,,\"4/24/2026, 5:51:56 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.18845731,,77650.74617161,,,,\"4/24/2026, 5:19:50 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.51738889,,77709.41202742,,,,\"4/24/2026, 4:34:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.92374855,,77718.86415591,,,,\"4/24/2026, 4:16:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.46800124,,77717.11941183,,,,\"4/24/2026, 3:21:37 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.9369165,,77990.8140641,,,,\"4/24/2026, 2:40:12 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.36854436,,78377.63282242,,,,\"4/24/2026, 1:10:57 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.80473666,,78247.19530264,,,,\"4/24/2026, 12:22:47 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.37300521,,78239.16092351,,,,\"4/24/2026, 11:55:49 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.19267105,,77573.22858018,,,,\"4/24/2026, 10:17:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.33635855,,77505.11773433,,,,\"4/24/2026, 10:07:40 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91984724,,77510.91073562,,,,\"4/24/2026, 9:32:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,16.69997124,,77545.582114,,,,\"4/24/2026, 9:16:41 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,16.0113683,,77437.37154662,,,,\"4/24/2026, 9:05:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.23887591,,77437.37154662,,,,\"4/24/2026, 9:05:12 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.31424775,,77855.59837168,,,,\"4/24/2026, 8:23:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.4196354,,77623.25268027,,,,\"4/24/2026, 7:42:42 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.81845935,,77632.74721837,,,,\"4/24/2026, 5:28:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.30863111,,77678.90951939,,,,\"4/24/2026, 5:04:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.97996624,,77742.56157273,,,,\"4/24/2026, 4:48:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.89243334,,77630.26669289,,,,\"4/24/2026, 4:32:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89986324,,77630.26669289,,,,\"4/24/2026, 4:25:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.14475854,,77731.15900503,,,,\"4/24/2026, 4:12:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.40180756,,77731.15900503,,,,\"4/24/2026, 4:12:33 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.27425355,,78357.28427658,,,,\"4/24/2026, 2:21:54 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.80123832,,78435.71324504,,,,\"4/24/2026, 2:01:58 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.79714932,,78092.73737771,,,,\"4/24/2026, 1:43:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.93996624,,78252.41667869,,,,\"4/23/2026, 11:57:49 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.89987924,,78254.33829326,,,,\"4/23/2026, 11:46:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.85224528,,77930.74466091,,,,\"4/23/2026, 10:02:30 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.24663669,,77730.00069863,,,,\"4/23/2026, 8:02:04 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.89172615,,77921.72056585,,,,\"4/23/2026, 6:30:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.19731657,,77740.25445461,,,,\"4/23/2026, 5:06:05 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.45721107,,78327.93964899,,,,\"4/23/2026, 4:29:38 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,139.999998,,77836.2185764,,0.00029619,BTC,\"4/23/2026, 12:56:18 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,17.09996624,,77465.74937158,,,,\"4/23/2026, 11:27:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.94987924,,77465.74937158,,,,\"4/23/2026, 11:27:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.93290603,,77465.74937158,,,,\"4/23/2026, 11:27:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,150,,77465.74937158,,,,\"4/23/2026, 11:25:27 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.91998624,,77448.51147895,,,,\"4/23/2026, 9:08:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.53400285,,78030.65977752,,,,\"4/23/2026, 7:59:13 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,29.96988024,,78238.44205912,,,,\"4/23/2026, 6:19:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.63478277,,77905.65203567,,,,\"4/23/2026, 5:27:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.7391723,,77703.87682435,,,,\"4/23/2026, 3:34:15 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.05743785,,77703.87682435,,,,\"4/23/2026, 3:26:46 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.70787916,,78338.08832676,,,,\"4/23/2026, 1:10:10 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.90987593,,78400.31048536,,,,\"4/23/2026, 12:56:02 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.42341161,,75410.30174367,,,,\"4/21/2026, 10:42:40 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.25753946,,75735.64832125,,,,\"4/21/2026, 8:51:09 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.88398365,,75543.72779869,,,,\"4/21/2026, 8:19:38 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.89986424,,75087.39251793,,,,\"4/21/2026, 8:08:06 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.6346153,,75411.97290724,,,,\"4/21/2026, 6:45:52 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.12800918,,76019.33028079,,,,\"4/21/2026, 4:42:55 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.45181816,,75803.70853805,,,,\"4/21/2026, 3:46:54 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.85728758,,75729.84816524,,,,\"4/21/2026, 3:38:03 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.74391484,,75694.18333,,,,\"4/21/2026, 2:57:31 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.94996624,,76323.70866716,,,,\"4/21/2026, 2:39:41 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.29986424,,76116.57682293,,,,\"4/21/2026, 2:34:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.60711627,,76177.81607743,,,,\"4/21/2026, 2:17:27 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.1466275,,75866.21935944,,,,\"4/21/2026, 1:58:48 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.1414626,,76057.39442654,,,,\"4/21/2026, 1:21:58 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.76772352,,76426.95045548,,,,\"4/21/2026, 12:07:38 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.95996624,,76488.33752951,,,,\"4/21/2026, 10:14:44 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.47995535,,76355.00794572,,,,\"4/21/2026, 8:25:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.37842961,,76172.90022553,,,,\"4/21/2026, 7:43:59 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.17867952,,75899.77165313,,,,\"4/21/2026, 7:06:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.02863381,,75647.05675309,,,,\"4/21/2026, 4:16:37 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.60269373,,75723.88056477,,,,\"4/21/2026, 4:04:16 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.88547087,,75632.8679558,,,,\"4/21/2026, 3:34:52 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.000017,,75930.51128688,,,,\"4/20/2026, 9:26:39 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.48937892,,75573.23747325,,,,\"4/20/2026, 3:36:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.85773556,,75573.23747325,,,,\"4/20/2026, 3:36:32 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.70491602,,75291.11622258,,,,\"4/20/2026, 1:09:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.80769258,,75178.90325158,,,,\"4/20/2026, 10:39:26 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.08640281,,75391.19001716,,,,\"4/20/2026, 10:20:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.45585564,,75391.19001716,,,,\"4/20/2026, 10:20:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.00428126,,75003.52335213,,,,\"4/20/2026, 9:26:29 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.61404738,,74764.92608749,,,,\"4/20/2026, 6:53:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.7999698,,74764.92608749,,,,\"4/20/2026, 6:51:26 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.92951524,,74377.10144022,,,,\"4/20/2026, 6:30:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.71314363,,74377.10144022,,,,\"4/20/2026, 6:30:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.01049063,,74331.71119467,,,,\"4/20/2026, 5:13:01 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.59450374,,74474.99678099,,,,\"4/20/2026, 2:35:57 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.94996624,,74556.88172548,,,,\"4/20/2026, 2:07:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,15.19985724,,74737.11295576,,,,\"4/20/2026, 1:46:14 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,13.92041012,,74331.00118794,,,,\"4/20/2026, 1:23:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.80967254,,74331.00118794,,,,\"4/20/2026, 1:23:51 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,75869.27918233,,,,\"4/19/2026, 2:18:24 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.99985524,,74999.11700566,,,,\"4/19/2026, 9:46:04 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.44954558,,75528.81675195,,,,\"4/19/2026, 2:57:40 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.22796605,,75578.82789477,,,,\"4/19/2026, 1:53:34 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.90996624,,75727.64699105,,,,\"4/19/2026, 12:15:24 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.99998624,,76351.79912455,,,,\"4/18/2026, 10:23:08 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,14.93998624,,76743.7519004,,,,\"4/18/2026, 9:00:22 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.92414886,,76605.43333851,,,,\"4/18/2026, 8:41:32 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.84010889,,77138.91086103,,,,\"4/18/2026, 6:01:30 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,29.92985424,,77133.29124291,,,,\"4/18/2026, 4:57:02 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.17995014,,77289.13691285,,,,\"4/18/2026, 3:12:21 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.98988624,,77257.93946895,,,,\"4/18/2026, 2:11:14 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,12.29423085,,77303.91704339,,,,\"4/18/2026, 1:21:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.01149658,,77303.91704339,,,,\"4/18/2026, 1:21:00 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.02060922,,77223.56336183,,,,\"4/18/2026, 12:31:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.59348704,,77379.99113005,,,,\"4/17/2026, 10:43:13 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.21744953,,77292.62953415,,,,\"4/17/2026, 9:39:42 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.1968572,,77458.54229481,,,,\"4/17/2026, 9:27:02 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.64997215,,77397.0892844,,,,\"4/17/2026, 5:42:29 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.94997487,,78213.19536999,,,,\"4/17/2026, 4:39:04 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.38124573,,78178.27540395,,,,\"4/17/2026, 4:30:16 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.58696212,,74642.12192845,,,,\"4/17/2026, 5:55:56 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.62182667,,74661.95605217,,,,\"4/17/2026, 5:29:15 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.72342388,,74636.57050472,,,,\"4/17/2026, 5:22:37 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.31669385,,74640.60414338,,,,\"4/17/2026, 2:46:50 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.58254595,,75062.28000872,,,,\"4/16/2026, 7:29:13 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.23185492,,74683.54717934,,,,\"4/16/2026, 6:45:09 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.71357433,,74215.67063967,,,,\"4/16/2026, 5:26:34 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.48618726,,74223.16004492,,,,\"4/16/2026, 3:30:11 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,24.09986324,,74074.52820383,,,,\"4/16/2026, 2:48:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.30627546,,74074.52820383,,,,\"4/16/2026, 2:48:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.0219448,,74074.52820383,,,,\"4/16/2026, 2:48:00 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,9.46836649,,74572.48844489,,,,\"4/16/2026, 12:01:19 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.99986324,,74448.55183163,,,,\"4/16/2026, 11:42:03 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.00600298,,74299.03205684,,,,\"4/16/2026, 11:23:55 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.97747316,,74299.03205684,,,,\"4/16/2026, 11:15:48 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.34782386,,74460.9437685,,,,\"4/16/2026, 10:27:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,10.86649261,,74787.21366783,,,,\"4/16/2026, 9:38:28 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.96998624,,74828.64743159,,,,\"4/16/2026, 9:30:41 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,11.15521716,,74707.62534096,,,,\"4/16/2026, 9:08:35 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.71007456,,74955.35617586,,,,\"4/16/2026, 2:53:07 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,6.25983921,,74616.56581923,,,,\"4/16/2026, 1:33:19 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.12984744,,74594.13269152,,,,\"4/16/2026, 12:17:38 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.33849795,,74410.87142647,,,,\"4/15/2026, 2:26:20 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,100,,74232.8528339,,,,\"4/15/2026, 2:20:15 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,19.96998413,,73908.04006481,,,,\"4/15/2026, 1:47:23 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.37985165,,74399.91214715,,,,\"4/15/2026, 1:30:56 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,5.68509796,,74296.59168203,,,,\"4/15/2026, 1:18:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,24.09978095,,74296.59168203,,,,\"4/15/2026, 1:18:25 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.09270888,,73950.14133947,,,,\"4/15/2026, 11:24:05 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,7.10381148,,74056.76795102,,,,\"4/15/2026, 8:46:53 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,300,,74033.09617224,,0.000341,BTC,\"4/14/2026, 9:36:43 PM\",
+Bitcoin,Bitcoin,BTC,,,Sent,229.99999800000003,,74341.33756432,,0.00032548,BTC,\"4/14/2026, 2:59:55 AM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00283774,,74465.28255293,,,,\"4/14/2026, 2:06:07 AM\",
+Bitcoin,Bitcoin,BTC,,,Sent,120.00000000000001,,72869.12559938,,0.00031083,BTC,\"4/11/2026, 3:57:52 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,0.00004,,71514.89922226,,,,\"4/8/2026, 6:44:22 PM\",
+Bitcoin,Bitcoin,BTC,,,Received,8.23850862,,71147.6880613,,,,\"4/8/2026, 3:29:11 PM\",
+Bitcoin,Bitcoin,BTC,,USD,Fill,71423.46453777,64219.45817497408,64219.45817497408,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, flfа-, flfа-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𖹪-, 𖹪-,,USD,Fill,149599650170.669,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𖹹-, 𖹹-,,USD,Fill,149599650170.769,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🪎-, 🪎-,,USD,Fill,21,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦜 -, 🦜 -,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,  ∏-,  ∏-,,USD,Fill,17676767676767,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🇷-, 🇷-,,USD,Fill,22.222,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐲 -, 🐲 -,,USD,Fill,21000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, adaw-, adaw-,,USD,Fill,5000000000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, aoio-, aoio-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, aƥe-, aƥe-,,USD,Fill,21.2121212,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, arkb-, arkb-,,USD,Fill,5100,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, bayс-, bayс-,,USD,Fill,2000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, bibit-, bibit-,,USD,Fill,52100000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, caox-, caox-,,USD,Fill,100000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, dlоr-, dlоr-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, erкe-, erкe-,,USD,Fill,1999.998,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, f­1-, f­1-,,USD,Fill,0.00121121,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, gdp -, gdp -,,USD,Fill,10000000000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𝑲-, 𝑲-,,USD,Fill,62831853071795.88,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, mαsk-, mαsk-,,USD,Fill,777777777777.777,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, perz-, perz-,,USD,Fill,28.88888888,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, pign-, pign-,,USD,Fill,3000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, punky-, punky-,,USD,Fill,696.969,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, satx-, satx-,,USD,Fill,2648495684,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, stln-, stln-,,USD,Fill,2,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, wеed-, wеed-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, x@ai-, x@ai-,,USD,Fill,100000000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, xbam-, xbam-,,USD,Fill,13,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, xsec-, xsec-,,USD,Fill,4,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, zеus-, zеus-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, βit-, βit-,,USD,Fill,149599650171,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ω★-, ω★-,,USD,Fill,88,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ω♥-, ω♥-,,USD,Fill,180,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, аudi-, аudi-,,USD,Fill,149599650.171,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𖥑-, 𖥑-,,USD,Fill,1,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𐒐-, 𐒐-,,USD,Fill,149599650171,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𓄀 -, 𓄀 -,,USD,Fill,444444444444.444,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𓆫-, 𓆫-,,USD,Fill,211.111,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, saтx-, saтx-,,USD,Fill,2100000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, bnnn-, bnnn-,,USD,Fill,2200,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, оrdl-, оrdl-,,USD,Fill,999.999,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, bayc -, bayc -,,USD,Fill,100,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, omeg -, omeg -,,USD,Fill,999.999,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, btс -, btс -,,USD,Fill,999.999,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 17рm-, 17рm-,,USD,Fill,210,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, coblt-, coblt-,,USD,Fill,148,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, сlaw-, сlaw-,,USD,Fill,420,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, atmс-, atmс-,,USD,Fill,700,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, awms-, awms-,,USD,Fill,210000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, bloс-, bloс-,,USD,Fill,999.999,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, нams-, нams-,,USD,Fill,500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, вayc-, вayc-,,USD,Fill,1000.7654321,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, P-, P-,,USD,Fill,17700,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ☮-, ☮-,,USD,Fill,20576,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, T-, T-,,USD,Fill,8400,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ᛏ-, ᛏ-,,USD,Fill,2751,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, Ƶ-, Ƶ-,,USD,Fill,3,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ✖-, ✖-,,USD,Fill,451000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🚪-, 🚪-,,USD,Fill,125000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, C-, C-,,USD,Fill,16000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦖-, 🦖-,,USD,Fill,175,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, $-, $-,,USD,Fill,9500000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⚡-, ⚡-,,USD,Fill,1000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦡-, 🦡-,,USD,Fill,40000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ᛒ-, ᛒ-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⧈-, ⧈-,,USD,Fill,9288,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⚓-, ⚓-,,USD,Fill,210,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💸-, 💸-,,USD,Fill,100,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔑-, 🔑-,,USD,Fill,1,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💎-, 💎-,,USD,Fill,11006,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👵-, 👵-,,USD,Fill,420,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🤷-, 🤷-,,USD,Fill,14,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👑-, 👑-,,USD,Fill,105000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𝕊-, 𝕊-,,USD,Fill,1200,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ₿-, ₿-,,USD,Fill,1000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🤡-, 🤡-,,USD,Fill,210000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🧙-, 🧙-,,USD,Fill,2436,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐸-, 🐸-,,USD,Fill,37600,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍊-, 🍊-,,USD,Fill,32176549.73515353,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🧢-, 🧢-,,USD,Fill,8,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🕋-, 🕋-,,USD,Fill,660,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦎-, 🦎-,,USD,Fill,193200,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔒-, 🔒-,,USD,Fill,4200,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ☉-, ☉-,,USD,Fill,17250,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⚽-, ⚽-,,USD,Fill,35000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ✨-, ✨-,,USD,Fill,3414583.33332,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ₦-, ₦-,,USD,Fill,24,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐝-, 🐝-,,USD,Fill,16670660,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ✌-, ✌-,,USD,Fill,20291400,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💵-, 💵-,,USD,Fill,20000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🚬-, 🚬-,,USD,Fill,250000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💤-, 💤-,,USD,Fill,1500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𝛑-, 𝛑-,,USD,Fill,1706163325,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍌-, 🍌-,,USD,Fill,6250000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👅-, 👅-,,USD,Fill,2500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦀-, 🦀-,,USD,Fill,7000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 📈-, 📈-,,USD,Fill,250000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🥥-, 🥥-,,USD,Fill,133320,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👨-, 👨-,,USD,Fill,96850,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔍-, 🔍-,,USD,Fill,3,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 😺-, 😺-,,USD,Fill,2500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐜-, 🐜-,,USD,Fill,1250,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🚀-, 🚀-,,USD,Fill,50000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👊-, 👊-,,USD,Fill,100000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, £-, £-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🌍-, 🌍-,,USD,Fill,36000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍖-, 🍖-,,USD,Fill,1000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🛸-, 🛸-,,USD,Fill,52500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🫦-, 🫦-,,USD,Fill,8280,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐚-, 🐚-,,USD,Fill,175000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 😎-, 😎-,,USD,Fill,100,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🖕-, 🖕-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦒-, 🦒-,,USD,Fill,50000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐧-, 🐧-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐈-, 🐈-,,USD,Fill,4500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 鲁-, 鲁-,,USD,Fill,444400,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🧌-, 🧌-,,USD,Fill,80850,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐕-, 🐕-,,USD,Fill,5175,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🏆-, 🏆-,,USD,Fill,6250,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🧦-, 🧦-,,USD,Fill,47375,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐒-, 🐒-,,USD,Fill,90000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 😸-, 😸-,,USD,Fill,7713,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🇺-, 🇺-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🤖-, 🤖-,,USD,Fill,3000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🫧-, 🫧-,,USD,Fill,78125,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐬-, 🐬-,,USD,Fill,500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💊-, 💊-,,USD,Fill,85920,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐶-, 🐶-,,USD,Fill,250000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🖐-, 🖐-,,USD,Fill,220000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🥛-, 🥛-,,USD,Fill,10500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, S-, S-,,USD,Fill,1000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔔-, 🔔-,,USD,Fill,6500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔫-, 🔫-,,USD,Fill,500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🕶-, 🕶-,,USD,Fill,1000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐾-, 🐾-,,USD,Fill,12500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦮-, 🦮-,,USD,Fill,587500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 😼-, 😼-,,USD,Fill,4685,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🆓-, 🆓-,,USD,Fill,2500000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⚫-, ⚫-,,USD,Fill,875000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💢-, 💢-,,USD,Fill,1000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⛵-, ⛵-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ☄-, ☄-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ◉-, ◉-,,USD,Fill,125,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⚙-, ⚙-,,USD,Fill,105000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⛽-, ⛽-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💀-, 💀-,,USD,Fill,10000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💦-, 💦-,,USD,Fill,793500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦴-, 🦴-,,USD,Fill,666000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦝-, 🦝-,,USD,Fill,440000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍗-, 🍗-,,USD,Fill,156250,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🛢-, 🛢-,,USD,Fill,525000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍟-, 🍟-,,USD,Fill,470000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ❤-, ❤-,,USD,Fill,60000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐵-, 🐵-,,USD,Fill,100000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🟠-, 🟠-,,USD,Fill,4200,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💓-, 💓-,,USD,Fill,40000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐭-, 🐭-,,USD,Fill,2000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🎁-, 🎁-,,USD,Fill,50000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𓃠-, 𓃠-,,USD,Fill,2800000000000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 4-, 4-,,USD,Fill,10000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 𓂀-, 𓂀-,,USD,Fill,125000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦅-, 🦅-,,USD,Fill,23000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,DECENTRALIZED (Runes),DEC,,USD,Fill,910000,0.000009355649727199303,0.000009355649727199303,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🍕-, 🍕-,,USD,Fill,10,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🪄-, 🪄-,,USD,Fill,136513651,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🫡-, 🫡-,,USD,Fill,1e+28,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ♾-, ♾-,,USD,Fill,1e+26,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 😽-, 😽-,,USD,Fill,50000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦄-, 🦄-,,USD,Fill,75000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,RuneMine,MINE,,USD,Fill,3000,0.00010919847205649996,0.00010919847205649996,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,LOBO•THE•WOLF•PUP,LOBO,,USD,Fill,311805,0.000049039949328185496,0.000049039949328185496,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ℙ-, ℙ-,,USD,Fill,69420,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🥜-, 🥜-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🦘-, 🦘-,,USD,Fill,5325000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔮-, 🔮-,,USD,Fill,215896,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ▣-, ▣-,,USD,Fill,13750000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 💥-, 💥-,,USD,Fill,7000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🗽-, 🗽-,,USD,Fill,62500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🐯-, 🐯-,,USD,Fill,25000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🧠-, 🧠-,,USD,Fill,15000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🥋-, 🥋-,,USD,Fill,9500,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🙀-, 🙀-,,USD,Fill,625000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, Ʉ-, Ʉ-,,USD,Fill,40000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🌹-, 🌹-,,USD,Fill,50000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ⧉-, ⧉-,,USD,Fill,10,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,Dog (Bitcoin),DOG,,USD,Fill,2669418,0.0006343905695349796,0.0006343905695349796,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,UNCOMMON•GOODS,UNCOMMONGOODS,,USD,Fill,535,0.021620516643971573,0.021620516643971573,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin,Bitcoin,BTC,,,Received,9.99998624,,71609.35809874,,,,\"4/8/2026, 2:00:19 PM\",
+Bitcoin, byblt-, byblt-,,USD,Fill,990000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 🔳-, 🔳-,,USD,Fill,1000,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, 👹-, 👹-,,USD,Fill,10666667,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"
+Bitcoin, ᛤ-, ᛤ-,,USD,Fill,21,,,,,,\"4/8/2026, 2:00:19 PM\",\"This is a fake transaction created to fill your balance, because  API does not send all your transactions\"

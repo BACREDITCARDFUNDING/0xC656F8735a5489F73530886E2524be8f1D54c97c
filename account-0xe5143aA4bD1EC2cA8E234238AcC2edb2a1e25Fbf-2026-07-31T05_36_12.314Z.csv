@@ -1,0 +1,6 @@
+﻿"Object","Chain Id","Account Address","Address","Name","Symbol","Decimals","Icon Url","Raw Balance","Balance","Currency","Price","Market Value"
+"token","1","0xe5143aA4bD1EC2cA8E234238AcC2edb2a1e25Fbf","0x0000000000000000000000000000000000000000","Ethereum","ETH","18","","","0.000175084564470875","usd","1903.9","0.33"
+"token","1","0xe5143aA4bD1EC2cA8E234238AcC2edb2a1e25Fbf","0xae7ab96520de3a18e5e111b5eaab095312d7fe84","Liquid staked Ether 2.0","STETH","18","","","0.000010036172974006","usd","1905.03","0.02"
+"token","1","0xe5143aA4bD1EC2cA8E234238AcC2edb2a1e25Fbf","0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2","Wrapped Ether","WETH","18","","","0.000182484633746998","usd","1904.82","0.35"
+"token","59144","0xe5143aA4bD1EC2cA8E234238AcC2edb2a1e25Fbf","0x0000000000000000000000000000000000000000","Ether","ETH","18","","","3.96200063392e-7","usd","1903.9","0"
+"token","59144","0xe5143aA4bD1EC2cA8E234238AcC2edb2a1e25Fbf","0xaca92e438df0b2401ff60da7e4337b687a2435da","MetaMask USD","MUSD","6","","","0.001172","usd","0.999744","0"
